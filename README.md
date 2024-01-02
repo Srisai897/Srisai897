@@ -2,7 +2,6 @@
 - 👀 I’m interested in developing web pages
 - 🌱 I’m currently learning back end web development
 - 💞️ I’m looking to collaborate on any projects on basic web development
-- 📫 https://srisai897.github.io/My_CV/Home_CV.html
 
 <!---
 Srisai897/Srisai897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
